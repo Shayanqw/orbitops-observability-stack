@@ -1,4 +1,4 @@
-# OrbitOps Observability Stack — Prometheus + Grafana + Loki (Docker Compose)
+# OrbitOps Observability Stack - Prometheus + Grafana + Loki (Docker Compose)
 
 A **portfolio-grade observability project** that brings up a complete local monitoring + logging stack in one command.
 
